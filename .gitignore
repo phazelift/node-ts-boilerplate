@@ -1,0 +1,7 @@
+node_modules
+build
+bak
+coverage
+.eslintcache
+.vscode
+**/*.js
