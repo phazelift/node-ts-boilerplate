@@ -2,8 +2,10 @@
 
 <br/>
 
-***A ready to go, bare nodejs typescript eslint prettier (ts-)jest boilerplate, targeted at backend or non-browser 
+***Ready to go, bare nodejs typescript eslint prettier (ts-)jest boilerplate, targeted at backend/non-browser 
 development.***
+
+
 
 <br/>
 
